@@ -186,7 +186,7 @@ export default function ContactPage() {
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900 mb-2">Phone</h3>
                     <p className="text-gray-600">
-                      Main: +1 (555) 123-4567<br />
+                      Main: +91 8707419481<br />
                       Toll-free: +1 (800) 987-6543
                     </p>
                   </div>
